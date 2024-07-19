@@ -1,7 +1,7 @@
 <h1>Tap-Inn🏡</h1>
 
 <h2>What is Tap-Inn?</h2>
-<p><strong>Tap-Inn</strong> is everyday AirBnB in dev mode. Book and reserve spaces across the globe with a just a tap.</p>
+<p><strong>Tap-Inn</strong> is everyday AirBnB in dev mode. Book and reserve spaces across the globe with just a tap.</p>
 
 <p>This project focuses on microservice achitecture using Nest.js. It is still in development phase.</p>
 
